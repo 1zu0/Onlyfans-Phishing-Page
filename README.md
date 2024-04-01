@@ -1,5 +1,5 @@
 # Onlyfans-Phishing-Page
-The Responsive Phishing Page for Onlyfans 2023
+The Responsive Phishing Page for Onlyfans 2024
 
 1. Change the ending of the file "hwto" to .txt and read...
 
